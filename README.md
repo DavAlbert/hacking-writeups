@@ -56,6 +56,6 @@
 
 > Hier handelte es sich um eine Sicherheitslücke, die eine Spionage von Nutzern ermöglicht hatte.
 > Möglich war es, Freunde abzuhören, deren Bildschirme zu sehen, während sie nicht im Anruf involviert waren.
-> Auch das Abhören während die Freunde mit anderen telefoniert hatten oder in einer Konversation waren, war möglich.
-> Aus Sicherheitsgründen, weil die verwundbare Skype Version immer noch runtergeladen werden kann, werde ich dazu kein Write-Up machen.
+> Auch das Abhören während die Freunde mit anderen telefoniert haben oder in einer Konversation drin waren, war möglich.
+> Aus Sicherheitsgründen, weil die verwundbare Skype Version immer noch runtergeladen werden kann, werde ich dazu keinen Write-Up machen. (Für korrekte Leute kann ich das aber gerne vordemonstrieren)
 
