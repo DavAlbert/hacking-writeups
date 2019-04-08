@@ -10,7 +10,7 @@
 
 > Coming soon
 
-> htts://www.stackoverflow.com/about/security
+> https://www.stackoverflow.com/about/security
 
 # Tipeeestream.com
 
