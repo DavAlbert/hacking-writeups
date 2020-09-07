@@ -1,3 +1,13 @@
+# Google Chrome - CVE-2020-6547
+
+> https://chromereleases.googleblog.com/2020/08/stable-channel-update-for-desktop.html
+
+# StackOverflow.com
+
+> Keine Details
+
+> https://www.stackoverflow.com/about/security
+
 # MySetup.co
 
 > Vollständige Account Übernahme über eine OAuth2 Sicherheitslücke
@@ -6,11 +16,12 @@
 
 > https://mysetup.co/blog/9-Debrief-of-a-major-security-issue
 
-# StackOverflow.com
+# Skype
 
-> Keine Details
-
-> https://www.stackoverflow.com/about/security
+> Hier handelte es sich um eine Sicherheitslücke, die eine Spionage von Nutzern ermöglicht hatte.
+> Möglich war es, Freunde abzuhören, deren Bildschirme zu sehen, während sie nicht im Anruf involviert waren.
+> Auch das Abhören während die Freunde mit anderen telefoniert haben oder in einer Konversation drin waren, war möglich.
+> Aus Sicherheitsgründen, weil die verwundbare Skype Version immer noch runtergeladen werden kann, werde ich dazu keinen Write-Up machen. (Für korrekte Leute kann ich das aber gerne vordemonstrieren)
 
 # Tipeeestream.com
 
@@ -51,11 +62,4 @@
 # Codecademy.com
 
 > Keine Details
-
-# Skype
-
-> Hier handelte es sich um eine Sicherheitslücke, die eine Spionage von Nutzern ermöglicht hatte.
-> Möglich war es, Freunde abzuhören, deren Bildschirme zu sehen, während sie nicht im Anruf involviert waren.
-> Auch das Abhören während die Freunde mit anderen telefoniert haben oder in einer Konversation drin waren, war möglich.
-> Aus Sicherheitsgründen, weil die verwundbare Skype Version immer noch runtergeladen werden kann, werde ich dazu keinen Write-Up machen. (Für korrekte Leute kann ich das aber gerne vordemonstrieren)
 
