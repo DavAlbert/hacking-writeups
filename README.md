@@ -8,27 +8,27 @@
 
 # StackOverflow.com
 
-> Coming soon
+> Keine Details
 
 > https://www.stackoverflow.com/about/security
 
 # Tipeeestream.com
 
-> Coming soon (Muss noch nachgefragt werden)
+> Keine Details
 
 # Bubble.is
 
-> Erstellung eines Benutzers ohne Nutzername über einen OAuth2 Fehler
+> Keine Details
 
 > https://bubble.is/security_acknowledgements
 
 # MyTaxi.de
 
-> Coming soon (Muss noch nachgefragt werden)
+> Keine Details
 
 # Brave Browser (Jeder Browser Client)
 
-> Coming soon (Muss noch nachgefragt werden
+> Keine Details
 
 > https://www.hackerone.com/davidalbert
 
@@ -38,19 +38,19 @@
 
 # My-Private.Club
 
-> Coming soon (Muss noch nachgefragt werden)
+> Keine Details
 
 # Nitrado.de
 
-> Coming soon (Muss noch nachgefragt werden)
+> Keine Details
 
 # StreamLabs.com
 
-> Coming soon (Muss noch nachgefragt werden)
+> Keine Details
 
 # Codecademy.com
 
-> Coming soon (Muss noch nachgefragt werden)
+> Keine Details
 
 # Skype
 
